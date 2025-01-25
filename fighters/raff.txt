@@ -1,0 +1,15 @@
+punch_skill=5
+kick_skill=8
+clinch_skill=9
+endurance=8
+power=4
+speed=6
+toughness=7
+balance=9
+aggression=3
+counter=9
+health=100
+stamina=100
+wins=0
+losses=0
+fights=0
